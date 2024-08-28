@@ -207,3 +207,9 @@ _Pvt_Extensions/
 ModelManifest.xml
 /Package
 .DS_Store
+
+/target/
+/.settings/
+/.externalToolBuilders/
+/.classpath
+/.project
